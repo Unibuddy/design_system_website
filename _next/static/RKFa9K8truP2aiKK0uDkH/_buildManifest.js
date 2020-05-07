@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST = (function(a){return {"/components/forms/forms":[a],"/components/icons":["static\u002Fchunks\u002Fc8b05f54.c6e6165f3983aa2a4051.js",a]}}("static\u002Fchunks\u002F983921d5a1f1d6fc8db06bdd4ebc33520ff9403e.2e9beeffb2e81141a7dc.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
