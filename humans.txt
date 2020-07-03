@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Pokemon Masters
+    tech@unibuddy.co
+
+# THANKS
+
+    Pikachu
+
+# TECHNOLOGY COLOPHON
+
+    JavaScript, HTML5, CSS3
+    React, Redux, React Bootstrap
+    Babel, Webpack, Node.js
+    React Static Boilerplate
